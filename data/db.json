@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "My First Post",
+      "datetime": "Jun 15, 2021 06:00:00 AM",
+      "body": "Artificial intelligence is the simulation of human intelligence processes by machines, especially computer systems. Specific applications of AI include expert systems, natural language processing, speech recognition and machine vision."
+    },
+    {
+      "id": "2",
+      "title": "My Second Post",
+      "datetime": "Feb 01, 2022 10:00:36 AM",
+      "body": "Social media refers to the means of interactions among people in which they create, share, and/or exchange information and ideas in virtual communities and networks. The Office of Communications and Marketing manages the main Facebook, X/Twitter, Instagram, LinkedIn, and YouTube accounts."
+    },
+    {
+      "id": "3",
+      "title": "My Third Post",
+      "datetime": "July 01, 2023 11:17:36 AM",
+      "body": "Floods are the most frequent type of natural disaster and occur when an overflow of water submerges land that is usually dry. Floods are often caused by heavy rainfall, rapid snowmelt or a storm surge from a tropical cyclone or tsunami in coastal areas."
+    },
+    {
+      "id": "4",
+      "title": "My Fourth Post",
+      "datetime": "March 20, 2024 5:22:12 PM",
+      "body": "Automated testing is the application of software tools to automate a human-driven manual process of reviewing and validating a software product. Most modern agile and DevOps software projects now include automated testing from inception."
+    },
+    {
+      "id": "5",
+      "title": "My Fifth Post",
+      "datetime": "April 20, 2024 7:20:15 PM",
+      "body": "'Embrace the struggle and let it make you stronger. It won't last forever.' 'Turn your obstacles into opportunities and your problems into possibilities.' 'The bravest sight in the world is to see a great person struggling against adversity.'"
+    }
+  ]
+}
