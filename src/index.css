@@ -137,7 +137,9 @@ body {
 }
 
 .Home {
-  background-image: '/src/images/images.jfif';
+  background-image: url('../src/images/images.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .NewPost {
